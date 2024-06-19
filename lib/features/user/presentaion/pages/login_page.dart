@@ -95,7 +95,7 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
                   const Text(
-                    "WhatsApp Clone will send you SMS message (carrier charges may apply) to verify your phone number. Enter the country code and phone number",
+                    "Snap Talk will send you SMS message (carrier charges may apply) to verify your phone number. Enter the country code and phone number",
                     textAlign: TextAlign.center,
                     style: TextStyle(fontSize: 15),
                   ),

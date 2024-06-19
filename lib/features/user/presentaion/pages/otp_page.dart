@@ -50,7 +50,7 @@ class _OtpPageState extends State<OtpPage> {
                     height: 20,
                   ),
                   const Text(
-                    "Enter your OTP for the WhatsApp Clone Verification (so that you will be moved for the further steps to complete)",
+                    "Enter your OTP for the Snap Talk Verification (so that you will be moved for the further steps to complete)", 
                     textAlign: TextAlign.center,
                     style: TextStyle(fontSize: 15),
                   ),

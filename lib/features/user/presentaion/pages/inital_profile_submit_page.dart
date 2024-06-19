@@ -136,7 +136,7 @@ class _InitialProfileSubmitPageState extends State<InitialProfileSubmitPage> {
             email: "",
             username: _usernameController.text,
             phoneNumber: widget.phoneNumber,
-            status: "Hey There! I'm using WhatsApp Clone",
+            status: "Hey There! I'm using Snap Talk",
             isOnline: false,
             profileUrl: profileUrl,
           )
