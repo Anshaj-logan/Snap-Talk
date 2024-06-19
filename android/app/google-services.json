@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046097857830",
+    "project_id": "talk-snap",
+    "storage_bucket": "talk-snap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046097857830:android:cf52377e2ae5d3bd3c05e7",
+        "android_client_info": {
+          "package_name": "com.example.talk_snap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyM5z7VrrOe9MciolARFe9sD3yOMRYsCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
